@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/macbookpro/Desktop/Flutter/hello_world_flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/macbookpro/Desktop/Flutter/componentes/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/macbookpro/Desktop/Flutter/hello_world_flutter/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/macbookpro/Desktop/Flutter/componentes/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

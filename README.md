@@ -1,6 +1,6 @@
-# hello_world_flutter
+# componentes
 
-Mi primer hola mundo en Flutter
+clases Flutter
 
 ## Getting Started
 
